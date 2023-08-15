@@ -1,4 +1,4 @@
-# Tengo Wallet
+# hello-jsbundling-rails
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -67,7 +67,7 @@ Clone this repository to your desired folder:
 
 ```sh
 cd my-folder
-git clone https://github.com/MarwanDev/tengo-wallet.git
+git clone https://github.com/MarwanDev/hello-jsbundling-rails.git
 
 ```
 
